@@ -6,7 +6,6 @@ import SystemExceptions.*;
 import dataStructures.*;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public interface ArtSystem extends Serializable {
