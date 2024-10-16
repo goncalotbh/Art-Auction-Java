@@ -5,7 +5,6 @@ import SystemExceptions.ExistentWorkException;
 import dataStructures.*;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public class ArtistC extends SystemUserC implements Artist {
