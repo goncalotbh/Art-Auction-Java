@@ -8,18 +8,7 @@ package dataStructures;
  * @param <V> Generic type Value
  */
 public class SepChainHashTableIterator<K,V> implements Iterator<Entry<K,V>> {
-
-
-
-
-
-
-
-
-
-
-
-
+    
     @Override
     public boolean hasNext() {
         return false;
