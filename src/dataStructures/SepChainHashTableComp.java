@@ -1,7 +1,6 @@
 package dataStructures;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public class SepChainHashTableComp<K extends Comparable<K>,V> extends SepChainHashTable<K,V> {
