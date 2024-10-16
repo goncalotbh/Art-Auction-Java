@@ -5,7 +5,6 @@ import dataStructures.Iterator;
 import java.io.Serializable;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public interface AuctionEntry extends Serializable {
