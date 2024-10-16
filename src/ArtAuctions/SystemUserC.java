@@ -1,7 +1,6 @@
 package ArtAuctions;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public class SystemUserC implements SystemUser {
