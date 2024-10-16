@@ -4,7 +4,6 @@ import SystemExceptions.NoBidsInEntryException;
 import dataStructures.*;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public class AuctionC implements Auction {
