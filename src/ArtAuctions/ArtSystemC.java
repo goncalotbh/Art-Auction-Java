@@ -3,7 +3,6 @@ import dataStructures.*;
 import SystemExceptions.*;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public class ArtSystemC implements ArtSystem {
