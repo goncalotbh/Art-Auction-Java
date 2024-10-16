@@ -2,7 +2,6 @@ package dataStructures;
 
 /**
  * BinarySearchTreeIterator implementation
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  * @version 1.0
  * @param <K> Generic type Key, must extend comparable
