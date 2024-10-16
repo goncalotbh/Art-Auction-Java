@@ -3,7 +3,6 @@ package enums;
 /**
  * Class containing all the constants from the program's feedback.
  *
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public enum Feedback {
