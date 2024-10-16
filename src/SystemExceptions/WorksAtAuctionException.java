@@ -3,7 +3,6 @@ package SystemExceptions;
 import java.io.Serializable;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  *
  * This exception is thrown when an artist is being removed from the system but still has works in auction
