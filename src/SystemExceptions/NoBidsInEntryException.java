@@ -3,7 +3,6 @@ package SystemExceptions;
 import java.io.Serializable;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  *
  * This exception is thrown when there are no bids for the given work inside the auction
