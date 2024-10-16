@@ -3,7 +3,6 @@ package dataStructures;
 import java.io.Serializable;
 
 /**
- * @author Afonso godinho 65153
  * @author Gonçalo Oliveira 65549
  */
 public class ArtEntryByName implements Comparable<ArtEntryByName>, Serializable {
