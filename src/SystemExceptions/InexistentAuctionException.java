@@ -3,7 +3,6 @@ package SystemExceptions;
 import java.io.Serializable;
 
 /**
- * @author Afonso Godinho 65153
  * @author Gonçalo Oliveira 65549
  *
  * This exception is thrown when there is not an auction with the given identifier registered in the system
